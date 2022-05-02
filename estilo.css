@@ -1,6 +1,7 @@
 body{background-color: black; color: white; font-family: 'Ruda', sans-serif;}
 header{display: flex;}
 img{height: 120px;}
-a{color: white; text-decoration: none; font-size: 5em;}
+nav{font-size: 5em;}
+a{color: white; text-decoration: none;}
 #a{font-size: 1em;}
 div{margin-left: 5em; margin-top: 2em;}
